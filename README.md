@@ -91,15 +91,15 @@ Analyzes prescription patterns, insurance-provider billing, admission types, tre
 
 ### 💡 Key Insights and Business Impact
 
-- **Arthritis** recorded the highest patient admissions among the analyzed medical conditions.
-- Patient distribution across **gender and age groups** remains relatively balanced.
-- Admission trends show noticeable fluctuations across weeks and financial years.
-- **Elective admissions** show higher average billing compared with emergency and urgent admissions.
-- Insurance billing is distributed across multiple providers, helping identify their relative contribution to healthcare costs.
-- Length-of-stay analysis helps identify patient groups requiring longer hospital resources.
-- YoY KPI tracking enables stakeholders to quickly identify changes in **admissions, billing, and hospital utilization**.
+> **Filter Applied:** FY **2021–22**
 
-These insights provide management with a clearer understanding of **patient demand, resource utilization, and financial performance**.
+- **11,228 patients** were admitted, with **100% bed occupancy** and an average **LOS of 22.53 days**.
+- **Hypertension** had the highest admissions (**2,863**), followed by **Diabetes (2,781)** and **Obesity (2,573)**.
+- Average billing was **$25.5K**, generating approximately **£21.6M** in total billing.
+- **Elective admissions** recorded the highest average billing at **$25.8K**.
+- **Medicare** contributed the highest insurance billing at approximately **£10,917K**.
+
+**Business Impact:** These insights help track **patient demand, hospital utilization, and healthcare costs**, supporting better resource and financial planning.
 
 ---
 
